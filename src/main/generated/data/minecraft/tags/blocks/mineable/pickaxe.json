@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:raw_ruby_block",
+    "tutorialmod:ruby_block",
+    "tutorialmod:ruby_ore",
+    "tutorialmod:deepslate_ruby_ore",
+    "tutorialmod:nether_ruby_ore",
+    "tutorialmod:end_stone_ruby_ore",
+    "tutorialmod:sound_block"
+  ]
+}
