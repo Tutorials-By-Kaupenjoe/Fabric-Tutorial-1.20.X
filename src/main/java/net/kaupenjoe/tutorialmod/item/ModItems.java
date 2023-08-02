@@ -22,6 +22,10 @@ public class ModItems {
     public static final Item COAL_BRIQUETTE = registerItem("coal_briquette",
             new Item(new FabricItemSettings()));
 
+
+    public static final Item RUBY_STAFF = registerItem("ruby_staff",
+            new Item(new FabricItemSettings().maxCount(1)));
+
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(RUBY);
         entries.add(RAW_RUBY);
