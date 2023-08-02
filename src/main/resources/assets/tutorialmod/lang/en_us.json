@@ -16,6 +16,16 @@
 
   "block.tutorialmod.sound_block": "Sound Block",
 
+  "block.tutorialmod.ruby_stairs": "Ruby Stairs",
+  "block.tutorialmod.ruby_slab": "Ruby Slab",
+  "block.tutorialmod.ruby_button": "Ruby Button",
+  "block.tutorialmod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.tutorialmod.ruby_fence": "Ruby Fence",
+  "block.tutorialmod.ruby_fence_gate": "Ruby Fence Gate",
+  "block.tutorialmod.ruby_wall": "Ruby Wall",
+  "block.tutorialmod.ruby_door": "Ruby Door",
+  "block.tutorialmod.ruby_trapdoor": "Ruby Trapdoor",
+
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
 
   "itemgroup.ruby": "Ruby Tutorial Group"
