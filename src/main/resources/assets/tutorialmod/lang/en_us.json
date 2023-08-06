@@ -8,6 +8,12 @@
 
   "item.tutorialmod.ruby_staff": "Ruby Staff",
 
+  "item.tutorialmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.tutorialmod.ruby_axe": "Ruby Axe",
+  "item.tutorialmod.ruby_shovel": "Ruby Shovel",
+  "item.tutorialmod.ruby_sword": "Ruby Sword",
+  "item.tutorialmod.ruby_hoe": "Ruby Hoe",
+
   "block.tutorialmod.ruby_block": "Block of Ruby",
   "block.tutorialmod.raw_ruby_block": "Block of Raw Ruby",
 
