@@ -1,4 +1,4 @@
-// 1.20.1	2023-09-01T15:06:43.878708	Tutorial Mod/Model Definitions
+// 1.20.1	2023-09-01T15:53:48.5434254	Tutorial Mod/Model Definitions
 bcb7c716cde78b4346bfcf35fab40cba6a7b4f11 assets\tutorialmod\models\item\ruby_boots.json
 64a10961286e5580fc005404c650f326fd5b061d assets\tutorialmod\blockstates\dahlia.json
 cc64d3cc92773f7cc42627d2ed90a5783dd15824 assets\tutorialmod\models\block\corn_crop_stage2.json
@@ -39,8 +39,8 @@ e1bcffd5dcbfb758a3668455d04d23c6efda02cf assets\tutorialmod\models\item\sound_bl
 9c3c890faadb5bcfc3262858ddf3e90fafbae756 assets\tutorialmod\models\item\tomato_seeds.json
 1e28efa60d451a0277c0e06152dd9c47e3e73701 assets\tutorialmod\blockstates\ruby_ore.json
 227887ba16919b1cedc0c4188b78790643c2d62e assets\tutorialmod\blockstates\deepslate_ruby_ore.json
-bcf47915c2fae223f4aef462a621fda8daab9830 assets\tutorialmod\models\block\corn_crop_stage4.json
 de1b322d97929c84f07ee7634cc04489dd96a7e6 assets\tutorialmod\blockstates\end_stone_ruby_ore.json
+bcf47915c2fae223f4aef462a621fda8daab9830 assets\tutorialmod\models\block\corn_crop_stage4.json
 d265fc031081fa3e6544db97d53afd58d746ef33 assets\tutorialmod\models\block\ruby_block.json
 4f02d9627a0344b60c1f7b8496c960f55c36f020 assets\tutorialmod\models\block\ruby_fence_gate.json
 103235a015b0ddd108f686804374cea420251156 assets\tutorialmod\models\item\ruby_leggings_diamond_trim.json
@@ -49,6 +49,7 @@ f643f34a95274bef6bc781b8ba22b1969ff252e5 assets\tutorialmod\models\item\ruby_hel
 9b062c50679acb96ed97c1ecdc1f6e85a7cdedd7 assets\tutorialmod\models\block\raw_ruby_block.json
 052ea90c57cb2bf382cf7d3f9bc57b20ee4ea416 assets\tutorialmod\models\item\ruby_button.json
 27975c894c8828b1eab240b67ed36945e08e4f97 assets\tutorialmod\models\block\ruby_stairs_outer.json
+f746b64540daf2ab6302b3ec01a78490c48fc10b assets\tutorialmod\models\item\bar_brawl_music_disc.json
 a31d254244420e3751599cfbc5304a9779c2e843 assets\tutorialmod\blockstates\corn_crop.json
 77d1255940a4af09a490e2e965a2abf8b5598824 assets\tutorialmod\models\block\ruby_door_top_right_open.json
 eaa086e1e5925260a7f03536f97f291f57135a23 assets\tutorialmod\models\item\ruby_wall.json
