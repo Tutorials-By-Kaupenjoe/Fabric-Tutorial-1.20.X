@@ -49,5 +49,7 @@
 
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
 
+  "sounds.tutorialmod.metal_detector_found_ore": "Metal Detector Jingle",
+
   "itemgroup.ruby": "Ruby Tutorial Group"
 }
