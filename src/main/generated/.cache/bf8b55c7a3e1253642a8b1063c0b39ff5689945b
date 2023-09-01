@@ -1,4 +1,4 @@
-// 1.20.1	2023-09-01T12:37:19.1384689	Tutorial Mod/Model Definitions
+// 1.20.1	2023-09-01T15:06:43.878708	Tutorial Mod/Model Definitions
 bcb7c716cde78b4346bfcf35fab40cba6a7b4f11 assets\tutorialmod\models\item\ruby_boots.json
 64a10961286e5580fc005404c650f326fd5b061d assets\tutorialmod\blockstates\dahlia.json
 cc64d3cc92773f7cc42627d2ed90a5783dd15824 assets\tutorialmod\models\block\corn_crop_stage2.json
@@ -39,8 +39,8 @@ e1bcffd5dcbfb758a3668455d04d23c6efda02cf assets\tutorialmod\models\item\sound_bl
 9c3c890faadb5bcfc3262858ddf3e90fafbae756 assets\tutorialmod\models\item\tomato_seeds.json
 1e28efa60d451a0277c0e06152dd9c47e3e73701 assets\tutorialmod\blockstates\ruby_ore.json
 227887ba16919b1cedc0c4188b78790643c2d62e assets\tutorialmod\blockstates\deepslate_ruby_ore.json
-de1b322d97929c84f07ee7634cc04489dd96a7e6 assets\tutorialmod\blockstates\end_stone_ruby_ore.json
 bcf47915c2fae223f4aef462a621fda8daab9830 assets\tutorialmod\models\block\corn_crop_stage4.json
+de1b322d97929c84f07ee7634cc04489dd96a7e6 assets\tutorialmod\blockstates\end_stone_ruby_ore.json
 d265fc031081fa3e6544db97d53afd58d746ef33 assets\tutorialmod\models\block\ruby_block.json
 4f02d9627a0344b60c1f7b8496c960f55c36f020 assets\tutorialmod\models\block\ruby_fence_gate.json
 103235a015b0ddd108f686804374cea420251156 assets\tutorialmod\models\item\ruby_leggings_diamond_trim.json
@@ -103,8 +103,8 @@ ab6d5bb86c6522fa3c42035f2a988d0cad069186 assets\tutorialmod\blockstates\ruby_doo
 a743381d7382b871f961ede3637b21dd7322ef0d assets\tutorialmod\models\item\tomato.json
 5dd849d824328a0b117bcf0cf40be7f0c007cf7a assets\tutorialmod\models\item\ruby_helmet_quartz_trim.json
 eca1e2536785a75f5ec88793a97be882b558dc85 assets\tutorialmod\models\block\ruby_door_bottom_left_open.json
-d14fdf72f7d0be7bae19ad548d8f6957238ea558 assets\tutorialmod\models\item\ruby_pickaxe.json
 df604a5827474a72c44e4b635f6e236bec0efdbf assets\tutorialmod\models\item\ruby_chestplate_quartz_trim.json
+d14fdf72f7d0be7bae19ad548d8f6957238ea558 assets\tutorialmod\models\item\ruby_pickaxe.json
 ccaabea26ed1357f15716aad8ecc1e26977f745d assets\tutorialmod\blockstates\tomato_crop.json
 7d2f8c926ad67d901fd027a3718e653156e8a24c assets\tutorialmod\models\item\ruby_leggings_gold_trim.json
 a5acbc9e4857bd3146a5ff00c184acb77ba00082 assets\tutorialmod\models\item\dahlia.json

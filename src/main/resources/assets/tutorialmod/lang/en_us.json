@@ -45,6 +45,8 @@
 
   "block.tutorialmod.dahlia": "Dahlia",
 
+  "entity.minecraft.villager.sound_master": "Soundmaster",
+
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
 
   "itemgroup.ruby": "Ruby Tutorial Group"
