@@ -34,9 +34,9 @@
   },
   "requirements": [
     [
+      "has_the_recipe",
       "has_stone",
-      "has_ruby",
-      "has_the_recipe"
+      "has_ruby"
     ]
   ],
   "rewards": {

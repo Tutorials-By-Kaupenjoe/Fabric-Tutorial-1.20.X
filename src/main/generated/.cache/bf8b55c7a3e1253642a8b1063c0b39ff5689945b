@@ -1,4 +1,4 @@
-// 1.20.1	2023-09-01T15:53:48.5434254	Tutorial Mod/Model Definitions
+// 1.20.2	2023-10-01T13:59:55.9878102	Tutorial Mod/Model Definitions
 bcb7c716cde78b4346bfcf35fab40cba6a7b4f11 assets\tutorialmod\models\item\ruby_boots.json
 64a10961286e5580fc005404c650f326fd5b061d assets\tutorialmod\blockstates\dahlia.json
 cc64d3cc92773f7cc42627d2ed90a5783dd15824 assets\tutorialmod\models\block\corn_crop_stage2.json
@@ -39,8 +39,8 @@ e1bcffd5dcbfb758a3668455d04d23c6efda02cf assets\tutorialmod\models\item\sound_bl
 9c3c890faadb5bcfc3262858ddf3e90fafbae756 assets\tutorialmod\models\item\tomato_seeds.json
 1e28efa60d451a0277c0e06152dd9c47e3e73701 assets\tutorialmod\blockstates\ruby_ore.json
 227887ba16919b1cedc0c4188b78790643c2d62e assets\tutorialmod\blockstates\deepslate_ruby_ore.json
-de1b322d97929c84f07ee7634cc04489dd96a7e6 assets\tutorialmod\blockstates\end_stone_ruby_ore.json
 bcf47915c2fae223f4aef462a621fda8daab9830 assets\tutorialmod\models\block\corn_crop_stage4.json
+de1b322d97929c84f07ee7634cc04489dd96a7e6 assets\tutorialmod\blockstates\end_stone_ruby_ore.json
 d265fc031081fa3e6544db97d53afd58d746ef33 assets\tutorialmod\models\block\ruby_block.json
 4f02d9627a0344b60c1f7b8496c960f55c36f020 assets\tutorialmod\models\block\ruby_fence_gate.json
 103235a015b0ddd108f686804374cea420251156 assets\tutorialmod\models\item\ruby_leggings_diamond_trim.json
@@ -108,6 +108,7 @@ df604a5827474a72c44e4b635f6e236bec0efdbf assets\tutorialmod\models\item\ruby_che
 d14fdf72f7d0be7bae19ad548d8f6957238ea558 assets\tutorialmod\models\item\ruby_pickaxe.json
 ccaabea26ed1357f15716aad8ecc1e26977f745d assets\tutorialmod\blockstates\tomato_crop.json
 7d2f8c926ad67d901fd027a3718e653156e8a24c assets\tutorialmod\models\item\ruby_leggings_gold_trim.json
+63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets\tutorialmod\models\item\porcupine_spawn_egg.json
 a5acbc9e4857bd3146a5ff00c184acb77ba00082 assets\tutorialmod\models\item\dahlia.json
 7b0f336fb3fad6a5f6df6b31e3a5be32663e8435 assets\tutorialmod\models\item\ruby_boots_iron_trim.json
 81c58771c6f956628ada19712ede57133eb95836 assets\tutorialmod\models\item\end_stone_ruby_ore.json
@@ -118,8 +119,8 @@ a6858982d4412f2cf7689dbb508505e26c565f6f assets\tutorialmod\models\item\ruby_che
 23ede73579d971069e5a5291d5bf4b2fbae662aa assets\tutorialmod\models\item\ruby_boots_netherite_trim.json
 532ba68dc6954d736bc5f867e2e8bd22810cedd9 assets\tutorialmod\models\item\ruby_boots_redstone_trim.json
 fdfadf4fbed71a5d0dee8237f61cf4a05d5b93d4 assets\tutorialmod\models\item\raw_ruby_block.json
-5d5ee4c1b0cbfdf26089041a583f4c929ecc8307 assets\tutorialmod\models\item\ruby_boots_quartz_trim.json
 c0b0701701bb884e5b960972b7a75ff2a91f5632 assets\tutorialmod\models\item\ruby_leggings_amethyst_trim.json
+5d5ee4c1b0cbfdf26089041a583f4c929ecc8307 assets\tutorialmod\models\item\ruby_boots_quartz_trim.json
 fd512cabd2eb069956fa814157486a016bf4e210 assets\tutorialmod\models\item\ruby_boots_diamond_trim.json
 4e9f1e7b5c4224f640daae5016c9d825c894ad71 assets\tutorialmod\models\item\ruby_helmet_iron_trim.json
 a2d5983cad7a3013cfed63e65fba36ce76160c3e assets\tutorialmod\models\block\ruby_button.json
