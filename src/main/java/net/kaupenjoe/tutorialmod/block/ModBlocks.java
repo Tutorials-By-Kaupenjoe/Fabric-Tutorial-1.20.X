@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.kaupenjoe.tutorialmod.TutorialMod;
 import net.kaupenjoe.tutorialmod.block.custom.CornCropBlock;
+import net.kaupenjoe.tutorialmod.block.custom.GemPolishingStationBlock;
 import net.kaupenjoe.tutorialmod.block.custom.SoundBlock;
 import net.kaupenjoe.tutorialmod.block.custom.TomatoCropBlock;
 import net.kaupenjoe.tutorialmod.sound.ModSounds;
@@ -70,6 +71,10 @@ public class ModBlocks {
                     FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
     public static final Block POTTED_DAHLIA = Registry.register(Registries.BLOCK, new Identifier(TutorialMod.MOD_ID, "potted_dahlia"),
             new FlowerPotBlock(DAHLIA, FabricBlockSettings.copyOf(Blocks.POTTED_ALLIUM).nonOpaque()));
+
+    public static final Block GEM_POLISHING_STATION = registerBlock("gem_polishing_station",
+            new GemPolishingStationBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).nonOpaque()));
+
 
 
     private static Block registerBlock(String name, Block block) {

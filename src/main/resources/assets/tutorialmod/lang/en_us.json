@@ -50,6 +50,8 @@
 
   "block.tutorialmod.dahlia": "Dahlia",
 
+  "block.tutorialmod.gem_polishing_station": "Gem Polishing Station",
+
   "entity.minecraft.villager.sound_master": "Soundmaster",
 
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
