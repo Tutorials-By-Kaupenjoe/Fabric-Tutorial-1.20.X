@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:chestnut_log",
+    "tutorialmod:chestnut_wood",
+    "tutorialmod:stripped_chestnut_log",
+    "tutorialmod:stripped_chestnut_wood"
+  ]
+}

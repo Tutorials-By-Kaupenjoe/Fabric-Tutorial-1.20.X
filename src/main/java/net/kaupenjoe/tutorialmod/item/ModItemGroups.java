@@ -70,6 +70,13 @@ public class ModItemGroups {
                         entries.add(ModBlocks.DAHLIA);
                         entries.add(ModBlocks.GEM_POLISHING_STATION);
 
+                        entries.add(ModBlocks.CHESTNUT_LOG);
+                        entries.add(ModBlocks.CHESTNUT_WOOD);
+                        entries.add(ModBlocks.STRIPPED_CHESTNUT_LOG);
+                        entries.add(ModBlocks.STRIPPED_CHESTNUT_WOOD);
+                        entries.add(ModBlocks.CHESTNUT_PLANKS);
+                        entries.add(ModBlocks.CHESTNUT_LEAVES);
+
 
                     }).build());
 

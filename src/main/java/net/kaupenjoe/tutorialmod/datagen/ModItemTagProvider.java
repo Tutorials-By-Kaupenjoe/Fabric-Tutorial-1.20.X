@@ -2,6 +2,8 @@ package net.kaupenjoe.tutorialmod.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
+import net.kaupenjoe.tutorialmod.block.ModBlocks;
+import net.kaupenjoe.tutorialmod.block.entity.ModBlockEntities;
 import net.kaupenjoe.tutorialmod.item.ModItems;
 import net.minecraft.registry.RegistryWrapper;
 import net.minecraft.registry.tag.ItemTags;
@@ -23,5 +25,14 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
 
         getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS)
                 .add(ModItems.BAR_BRAWL_MUSIC_DISC);
+
+        getOrCreateTagBuilder(ItemTags.PLANKS)
+                .add(ModBlocks.CHESTNUT_PLANKS.asItem());
+
+        getOrCreateTagBuilder(ItemTags.LOGS_THAT_BURN)
+                .add(ModBlocks.CHESTNUT_LOG.asItem())
+                .add(ModBlocks.CHESTNUT_WOOD.asItem())
+                .add(ModBlocks.STRIPPED_CHESTNUT_LOG.asItem())
+                .add(ModBlocks.STRIPPED_CHESTNUT_WOOD.asItem());
     }
 }

@@ -1,4 +1,6 @@
-// 1.20.2	2023-10-04T15:34:26.6378504	Tutorial Mod/Tags for minecraft:item
+// 1.20.2	2023-10-06T13:57:38.9109478	Tutorial Mod/Tags for minecraft:item
 9639b71005e3c0c3c5970c51c1bdae3cf3459d56 data\minecraft\tags\items\creeper_drop_music_discs.json
+a6386d388b22c9e0a29b073662ae83adda467bc2 data\minecraft\tags\items\logs_that_burn.json
 f5af21ad4beca220dc8b13697250513824662a4a data\minecraft\tags\items\trimmable_armor.json
+799a62ef5dd62b6a3c98d57ec65e011ff88c2630 data\minecraft\tags\items\planks.json
 9639b71005e3c0c3c5970c51c1bdae3cf3459d56 data\minecraft\tags\items\music_discs.json

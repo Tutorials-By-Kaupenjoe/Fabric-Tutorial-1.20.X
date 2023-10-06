@@ -52,6 +52,14 @@
 
   "block.tutorialmod.gem_polishing_station": "Gem Polishing Station",
 
+  "block.tutorialmod.chestnut_log": "Chestnut Log",
+  "block.tutorialmod.chestnut_wood": "Chestnut Wood",
+  "block.tutorialmod.stripped_chestnut_log": "Stripped Chestnut Log",
+  "block.tutorialmod.stripped_chestnut_wood": "Stripped Chestnut Wood",
+  "block.tutorialmod.chestnut_planks": "Chestnut Planks",
+  "block.tutorialmod.chestnut_leaves": "Chestnut Leaves",
+
+
   "entity.minecraft.villager.sound_master": "Soundmaster",
 
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
