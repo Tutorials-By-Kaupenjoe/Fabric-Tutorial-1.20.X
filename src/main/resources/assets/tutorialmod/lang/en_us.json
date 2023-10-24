@@ -59,6 +59,11 @@
   "block.tutorialmod.chestnut_planks": "Chestnut Planks",
   "block.tutorialmod.chestnut_leaves": "Chestnut Leaves",
 
+  "block.tutorialmod.chestnut_standing_sign": "Chestnut Standing Sign",
+  "block.tutorialmod.chestnut_wall_sign": "Chestnut Wall Sign",
+
+  "block.tutorialmod.chestnut_hanging_sign": "Chestnut Hanging Sign",
+  "block.tutorialmod.chestnut_wall_hanging_sign": "Chestnut Wall Hanging Sign",
 
   "entity.minecraft.villager.sound_master": "Soundmaster",
 
