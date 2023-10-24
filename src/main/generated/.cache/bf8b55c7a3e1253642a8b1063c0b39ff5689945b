@@ -1,4 +1,4 @@
-// 1.20.2	2023-10-24T14:51:57.4775622	Tutorial Mod/Model Definitions
+// 1.20.2	2023-10-24T15:27:47.9122652	Tutorial Mod/Model Definitions
 912c4b0026d1d6329296924e87f360af3228e2e8 assets\tutorialmod\models\block\stripped_chestnut_log_horizontal.json
 bcb7c716cde78b4346bfcf35fab40cba6a7b4f11 assets\tutorialmod\models\item\ruby_boots.json
 5738d378b71f16d89cac5c40eef46c85d6c567ca assets\tutorialmod\models\item\chestnut_boat.json
@@ -46,8 +46,8 @@ e1bcffd5dcbfb758a3668455d04d23c6efda02cf assets\tutorialmod\models\item\sound_bl
 7c3abe566317ec4c014da4ad23487b2068deddeb assets\tutorialmod\models\block\ruby_slab_top.json
 51873f8f87730b46b130fc3b1c61bb0c554d04a7 assets\tutorialmod\models\item\ruby_axe.json
 9c3c890faadb5bcfc3262858ddf3e90fafbae756 assets\tutorialmod\models\item\tomato_seeds.json
-227887ba16919b1cedc0c4188b78790643c2d62e assets\tutorialmod\blockstates\deepslate_ruby_ore.json
 1e28efa60d451a0277c0e06152dd9c47e3e73701 assets\tutorialmod\blockstates\ruby_ore.json
+227887ba16919b1cedc0c4188b78790643c2d62e assets\tutorialmod\blockstates\deepslate_ruby_ore.json
 8ccecfa1557170a3d8408da80bc8ff348ef75eb1 assets\tutorialmod\blockstates\chestnut_wood.json
 de1b322d97929c84f07ee7634cc04489dd96a7e6 assets\tutorialmod\blockstates\end_stone_ruby_ore.json
 bcf47915c2fae223f4aef462a621fda8daab9830 assets\tutorialmod\models\block\corn_crop_stage4.json
@@ -180,3 +180,4 @@ a3afdbdc2d5bc2b6615dfde9596d1eeeb3dc4564 assets\tutorialmod\models\item\ruby_blo
 ab328a99e65fed08119dbb5356cd6c7edf239107 assets\tutorialmod\models\item\ruby_helmet_netherite_trim.json
 6e6bdd498115cf24d2c74667b608b6cebfb12a37 assets\tutorialmod\blockstates\ruby_stairs.json
 fa413b9488ff593af5a660368bbb3bf33d19cd33 assets\tutorialmod\blockstates\ruby_wall.json
+798aa8856a8439e5ead445b62c2c79a11612c545 assets\tutorialmod\models\item\dice.json

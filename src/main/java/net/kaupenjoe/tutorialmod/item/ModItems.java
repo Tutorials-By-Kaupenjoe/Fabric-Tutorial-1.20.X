@@ -8,6 +8,7 @@ import net.kaupenjoe.tutorialmod.TutorialMod;
 import net.kaupenjoe.tutorialmod.block.ModBlocks;
 import net.kaupenjoe.tutorialmod.entity.ModBoats;
 import net.kaupenjoe.tutorialmod.entity.ModEntities;
+import net.kaupenjoe.tutorialmod.item.custom.DiceItem;
 import net.kaupenjoe.tutorialmod.item.custom.MetalDetectorItem;
 import net.kaupenjoe.tutorialmod.item.custom.ModArmorItem;
 import net.kaupenjoe.tutorialmod.sound.ModSounds;
@@ -75,6 +76,7 @@ public class ModItems {
     public static final Item CHESTNUT_BOAT = TerraformBoatItemHelper.registerBoatItem(ModBoats.CHESTNUT_BOAT_ID, ModBoats.CHESTNUT_BOAT_KEY, false);
     public static final Item CHESTNUT_CHEST_BOAT = TerraformBoatItemHelper.registerBoatItem(ModBoats.CHESTNUT_CHEST_BOAT_ID, ModBoats.CHESTNUT_BOAT_KEY, true);
 
+    public static final Item DICE = registerItem("dice", new DiceItem(new FabricItemSettings()));
 
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {

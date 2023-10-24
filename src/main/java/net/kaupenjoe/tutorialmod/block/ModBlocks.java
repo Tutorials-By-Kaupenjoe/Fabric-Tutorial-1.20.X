@@ -7,10 +7,7 @@ import com.terraformersmc.terraform.sign.block.TerraformWallSignBlock;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.kaupenjoe.tutorialmod.TutorialMod;
-import net.kaupenjoe.tutorialmod.block.custom.CornCropBlock;
-import net.kaupenjoe.tutorialmod.block.custom.GemPolishingStationBlock;
-import net.kaupenjoe.tutorialmod.block.custom.SoundBlock;
-import net.kaupenjoe.tutorialmod.block.custom.TomatoCropBlock;
+import net.kaupenjoe.tutorialmod.block.custom.*;
 import net.kaupenjoe.tutorialmod.sound.ModSounds;
 import net.minecraft.block.*;
 import net.minecraft.data.family.BlockFamilies;
@@ -113,6 +110,8 @@ public class ModBlocks {
             .sign(ModBlocks.STANDING_CHESTNUT_SIGN, ModBlocks.WALL_CHESTNUT_SIGN)
             .group("wooden").unlockCriterionName("has_planks").build();
 
+    public static final Block DICE_BLOCK = Registry.register(Registries.BLOCK, new Identifier(TutorialMod.MOD_ID, "dice_block"),
+            new DiceBlock(FabricBlockSettings.copyOf(Blocks.STONE)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
