@@ -1,7 +1,7 @@
-// 1.20.2	2023-11-06T19:40:42.4305666	Tutorial Mod/Block Loot Tables
+// 1.20.2	2023-11-06T22:31:35.609524	Tutorial Mod/Block Loot Tables
 42baeb68ad66299d1b64d8d57e38f99d26306a7f data\tutorialmod\loot_tables\blocks\ruby_door.json
-a77a150c7851fbaf830081a89b0e3371ad62225d data\tutorialmod\loot_tables\blocks\ruby_fence_gate.json
 178a29f446cd7ce8ca32f37371622aed06467afe data\tutorialmod\loot_tables\blocks\corn_crop.json
+a77a150c7851fbaf830081a89b0e3371ad62225d data\tutorialmod\loot_tables\blocks\ruby_fence_gate.json
 62b525cc60879fed99f9e678c1a93d25c0d3bdad data\tutorialmod\loot_tables\blocks\dahlia.json
 8fb6c58892093a4f3b3cfb425b862efcdedcc873 data\tutorialmod\loot_tables\blocks\nether_ruby_ore.json
 151033a87d075f2c781260a9d2f09b838137413f data\tutorialmod\loot_tables\blocks\tomato_crop.json
