@@ -70,6 +70,8 @@
   "block.tutorialmod.chestnut_hanging_sign": "Chestnut Hanging Sign",
   "block.tutorialmod.chestnut_wall_hanging_sign": "Chestnut Wall Hanging Sign",
 
+  "block.tutorialmod.chestnut_sapling": "Chestnut Sapling",
+
   "entity.minecraft.villager.sound_master": "Soundmaster",
 
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",

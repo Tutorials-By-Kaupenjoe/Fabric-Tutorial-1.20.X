@@ -84,6 +84,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.STRIPPED_CHESTNUT_WOOD);
                         entries.add(ModBlocks.CHESTNUT_PLANKS);
                         entries.add(ModBlocks.CHESTNUT_LEAVES);
+                        entries.add(ModBlocks.CHESTNUT_SAPLING);
 
 
                     }).build());

@@ -74,8 +74,9 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.STRIPPED_CHESTNUT_LOG);
         addDrop(ModBlocks.STRIPPED_CHESTNUT_WOOD);
         addDrop(ModBlocks.CHESTNUT_PLANKS);
+        addDrop(ModBlocks.CHESTNUT_SAPLING);
 
-        addDrop(ModBlocks.CHESTNUT_LEAVES, leavesDrops(ModBlocks.CHESTNUT_LEAVES, ModBlocks.RUBY_SLAB, 0.0025f)); // TODO
+        addDrop(ModBlocks.CHESTNUT_LEAVES, leavesDrops(ModBlocks.CHESTNUT_LEAVES, ModBlocks.CHESTNUT_SAPLING, 0.0025f));
     }
 
     public LootTable.Builder copperLikeOreDrops(Block drop, Item item) {

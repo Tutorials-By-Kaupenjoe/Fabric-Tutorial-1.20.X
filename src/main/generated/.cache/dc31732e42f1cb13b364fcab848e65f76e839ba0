@@ -1,7 +1,8 @@
-// 1.20.2	2023-10-24T17:13:10.8783721	Tutorial Mod/World Gen
-c5f6f27ba0946aff3450d8ddf9e52cb5dfaa5cec data\tutorialmod\worldgen\configured_feature\ruby_ore.json
+// 1.20.2	2023-11-06T19:40:42.4345672	Tutorial Mod/World Gen
 fb1a824b60cc95c0e69ea89a5c75d8b1ee5e44ef data\tutorialmod\worldgen\configured_feature\nether_ruby_ore.json
+c5f6f27ba0946aff3450d8ddf9e52cb5dfaa5cec data\tutorialmod\worldgen\configured_feature\ruby_ore.json
 4fb30413df63c0e227820e88c9cacfc0ed1ab7e3 data\tutorialmod\worldgen\placed_feature\nether_ruby_ore_placed.json
 84c362f903d861e86121a8e31f17a31992bebc24 data\tutorialmod\worldgen\placed_feature\ruby_ore_placed.json
 3b2e04d5fe58b3cf912888cc37c33393d976e460 data\tutorialmod\worldgen\configured_feature\end_ruby_ore.json
 e7368a07a2d2c77e19b1cbe702d3f527ec7de282 data\tutorialmod\worldgen\placed_feature\end_ruby_ore_placed.json
+de0cde03b11a11bd3c475b3b7078573f442489ea data\tutorialmod\worldgen\configured_feature\chestnut.json

@@ -9,6 +9,7 @@ import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.kaupenjoe.tutorialmod.TutorialMod;
 import net.kaupenjoe.tutorialmod.block.custom.*;
 import net.kaupenjoe.tutorialmod.sound.ModSounds;
+import net.kaupenjoe.tutorialmod.world.tree.ChestnutSaplingGenerator;
 import net.minecraft.block.*;
 import net.minecraft.data.family.BlockFamilies;
 import net.minecraft.data.family.BlockFamily;
@@ -112,6 +113,10 @@ public class ModBlocks {
 
     public static final Block DICE_BLOCK = Registry.register(Registries.BLOCK, new Identifier(TutorialMod.MOD_ID, "dice_block"),
             new DiceBlock(FabricBlockSettings.copyOf(Blocks.STONE)));
+
+    public static final Block CHESTNUT_SAPLING = registerBlock("chestnut_sapling",
+            new SaplingBlock(new ChestnutSaplingGenerator(), FabricBlockSettings.copyOf(Blocks.OAK_SAPLING)));
+
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
