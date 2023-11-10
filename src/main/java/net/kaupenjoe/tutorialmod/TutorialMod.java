@@ -20,6 +20,7 @@ import net.kaupenjoe.tutorialmod.util.ModCustomTrades;
 import net.kaupenjoe.tutorialmod.util.ModLootTableModifiers;
 import net.kaupenjoe.tutorialmod.villager.ModVillagers;
 import net.kaupenjoe.tutorialmod.world.gen.ModWorldGeneration;
+import net.kaupenjoe.tutorialmod.world.tree.ModTrunkPlacerTypes;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -44,6 +45,7 @@ public class TutorialMod implements ModInitializer {
 		ModScreenHandlers.registerScreenHandlers();
 
 		ModRecipes.registerRecipes();
+		ModTrunkPlacerTypes.register();
 
 		FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE, 200);
 		FabricDefaultAttributeRegistry.register(ModEntities.PORCUPINE, PorcupineEntity.createPorcupineAttributes());
