@@ -2,6 +2,7 @@ package net.kaupenjoe.tutorialmod.world;
 
 import net.kaupenjoe.tutorialmod.TutorialMod;
 import net.kaupenjoe.tutorialmod.block.ModBlocks;
+import net.kaupenjoe.tutorialmod.world.tree.custom.ChestnutFoliagePlacer;
 import net.kaupenjoe.tutorialmod.world.tree.custom.ChestnutTrunkPlacer;
 import net.minecraft.block.Blocks;
 import net.minecraft.registry.Registerable;
@@ -53,7 +54,7 @@ public class ModConfiguredFeatures {
                 new ChestnutTrunkPlacer(5, 4, 3),
 
                 BlockStateProvider.of(ModBlocks.CHESTNUT_LEAVES),
-                new BlobFoliagePlacer(ConstantIntProvider.create(2), ConstantIntProvider.create(1), 2),
+                new ChestnutFoliagePlacer(ConstantIntProvider.create(2), ConstantIntProvider.create(1), 2),
 
                 new TwoLayersFeatureSize(1, 0, 2)).build());
     }
