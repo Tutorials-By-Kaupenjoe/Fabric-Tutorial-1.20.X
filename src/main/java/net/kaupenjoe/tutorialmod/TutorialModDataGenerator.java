@@ -6,6 +6,7 @@ import net.kaupenjoe.tutorialmod.datagen.*;
 import net.kaupenjoe.tutorialmod.world.ModConfiguredFeatures;
 import net.kaupenjoe.tutorialmod.world.ModPlacedFeatures;
 import net.kaupenjoe.tutorialmod.world.biome.ModBiomes;
+import net.kaupenjoe.tutorialmod.world.dimension.ModDimensions;
 import net.minecraft.registry.RegistryBuilder;
 import net.minecraft.registry.RegistryKeys;
 
@@ -28,5 +29,6 @@ public class TutorialModDataGenerator implements DataGeneratorEntrypoint {
 		registryBuilder.addRegistry(RegistryKeys.CONFIGURED_FEATURE, ModConfiguredFeatures::boostrap);
 		registryBuilder.addRegistry(RegistryKeys.PLACED_FEATURE, ModPlacedFeatures::boostrap);
 		registryBuilder.addRegistry(RegistryKeys.BIOME, ModBiomes::boostrap);
+		registryBuilder.addRegistry(RegistryKeys.DIMENSION_TYPE, ModDimensions::bootstrapType);
 	}
 }

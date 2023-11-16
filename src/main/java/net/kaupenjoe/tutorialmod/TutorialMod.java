@@ -22,6 +22,8 @@ import net.kaupenjoe.tutorialmod.villager.ModVillagers;
 import net.kaupenjoe.tutorialmod.world.gen.ModWorldGeneration;
 import net.kaupenjoe.tutorialmod.world.tree.ModFoliagePlacerTypes;
 import net.kaupenjoe.tutorialmod.world.tree.ModTrunkPlacerTypes;
+import net.kyrptonaught.customportalapi.api.CustomPortalBuilder;
+import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -66,5 +68,12 @@ public class TutorialMod implements ModInitializer {
 
 		ModBoats.registerBoats();
 		ModWorldGeneration.generateModWorldGen();
+
+		CustomPortalBuilder.beginPortal()
+				.frameBlock(ModBlocks.RUBY_BLOCK)
+				.lightWithItem(ModItems.CORN)
+				.destDimID(new Identifier(TutorialMod.MOD_ID, "kaupendim"))
+				.tintColor(0xc76efa)
+				.registerPortal();
 	}
 }
