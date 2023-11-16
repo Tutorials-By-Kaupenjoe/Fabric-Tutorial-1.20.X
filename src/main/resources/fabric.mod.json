@@ -26,6 +26,9 @@
 		],
 		"rei_client": [
 			"net.kaupenjoe.tutorialmod.compat.TutorialModREIClientPlugin"
+		],
+		"terrablender": [
+			"net.kaupenjoe.tutorialmod.world.biome.ModTerrablenderAPI"
 		]
 	},
 	"mixins": [
