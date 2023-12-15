@@ -22,4 +22,7 @@ public class ModEntities {
             FabricEntityTypeBuilder.<DiceProjectileEntity>create(SpawnGroup.MISC, DiceProjectileEntity::new)
                     .dimensions(EntityDimensions.fixed(0.25f, 0.25f)).build());
 
+    public static void registerModEntities() {
+        TutorialMod.LOGGER.info("Registering Entities for " + TutorialMod.MOD_ID);
+    }
 }
