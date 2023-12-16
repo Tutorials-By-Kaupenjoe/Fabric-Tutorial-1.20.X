@@ -8,9 +8,7 @@
 		"FoliagePlacerTypeInvoker"
 	],
 	"client": [
-		"ItemRendererAccessor",
-		"ItemRendererMixin",
-		"ModelLoaderMixin"
+		"ItemRendererMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
